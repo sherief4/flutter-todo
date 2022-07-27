@@ -1,16 +1,63 @@
-# todo_app
+# TODO Mobile App
 
-A new Flutter project.
+## Algoriza Internship second task
+### A simple flutter app that uses sqflite as local database to store notes. It also uses local notification based on pre set reminders to remind the user of the task .
 
-## Getting Started
+##Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td>Home Page</td>
+     <td>Home Page Dark theme</td>
+  
+  </tr>
+  <tr>
+    <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/1.jpg" width=405 height=810></td>
+    <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/1dark.jpg" width=405 height=810></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td>Add Task Page</td>
+     <td>Add Task Dark Theme</td>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  </tr>
+  <tr>
+ <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/2.jpg" width=405 height=810></td>
+    <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/2dark.jpg" width=405 height=810></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td>Schedule Page</td>
+     <td>Schedule Dark Theme</td>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  </tr>
+  <tr>
+ <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/3.jpg" width=405 height=810></td>
+    <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/3dark.jpg" width=405 height=810></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>Schedule Page</td>
+     <td>Schedule Dark Theme</td>
+
+  </tr>
+  <tr>
+ <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/4.jpg" width=405 height=810></td>
+    <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/4dark.jpg" width=405 height=810></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td>Delete Task</td>
+     <td>Delete Task Dark Theme</td>
+
+  </tr>
+  <tr>
+ <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/5.jpg" width=405 height=810></td>
+    <td><img src="https://github.com/sherief4/flutter-todo/blob/main/screenshots/5dark.jpg" width=405 height=810></td>
+  </tr>
+ </table>
